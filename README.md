@@ -157,9 +157,9 @@ class DarshChouhan:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarshChouhan&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=00D4FF&title_color=00D4FF&icon_color=7928CA&text_color=A0AEC0&hide_border=false&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chouhandarsh&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=00D4FF&title_color=00D4FF&icon_color=7928CA&text_color=A0AEC0&hide_border=false&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarshChouhan&layout=compact&theme=github_dark&bg_color=0D1117&border_color=00D4FF&title_color=00D4FF&text_color=A0AEC0&hide_border=false&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chouhandarsh&layout=compact&theme=github_dark&bg_color=0D1117&border_color=00D4FF&title_color=00D4FF&text_color=A0AEC0&hide_border=false&langs_count=6"/>
 
 </div>
 
@@ -175,7 +175,7 @@ class DarshChouhan:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DarshChouhan&theme=darkhub&no-frame=true&margin-w=10&column=6&title=Commits,Repositories,Stars,Followers,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chouhandarsh&theme=darkhub&no-frame=true&margin-w=10&column=6&title=Commits,Repositories,Stars,Followers,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -185,7 +185,7 @@ class DarshChouhan:
 
 <div align="center">
 
-[![Darsh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DarshChouhan&bg_color=0D1117&color=00D4FF&line=7928CA&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Darsh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=chouhandarsh&bg_color=0D1117&color=00D4FF&line=7928CA&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -196,9 +196,9 @@ class DarshChouhan:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DarshChouhan/DarshChouhan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DarshChouhan/DarshChouhan/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DarshChouhan/DarshChouhan/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chouhandarsh/chouhandarsh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chouhandarsh/chouhandarsh/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chouhandarsh/chouhandarsh/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -223,10 +223,10 @@ class DarshChouhan:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/darshchouhan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/darshchouhan)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://auth.geeksforgeeks.org/user/darshchouhan)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:darshchouhan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/chouhandarsh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Darsh_chouhan/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://www.geeksforgeeks.org/profile/darshf9qe)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:darshc534@gmail.com)
 
 </div>
 
