@@ -151,31 +151,8 @@ class DarshChouhan:
 
 *More projects dropping regularly. Watch this space.*
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chouhandarsh&show_icons=true&theme=github_dark&bg_color=0D1117&border_color=00D4FF&title_color=00D4FF&icon_color=7928CA&text_color=A0AEC0&hide_border=false&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chouhandarsh&layout=compact&theme=github_dark&bg_color=0D1117&border_color=00D4FF&title_color=00D4FF&text_color=A0AEC0&hide_border=false&langs_count=6"/>
-
-</div>
-
-<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DarshChouhan&theme=dark&background=0D1117&border=00D4FF&ring=7928CA&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=A0AEC0&dates=A0AEC0&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=chouhandarsh&theme=darkhub&no-frame=true&margin-w=10&column=6&title=Commits,Repositories,Stars,Followers,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -186,20 +163,6 @@ class DarshChouhan:
 <div align="center">
 
 [![Darsh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=chouhandarsh&bg_color=0D1117&color=00D4FF&line=7928CA&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chouhandarsh/chouhandarsh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chouhandarsh/chouhandarsh/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chouhandarsh/chouhandarsh/output/github-snake.svg" />
-</picture>
 
 </div>
 
