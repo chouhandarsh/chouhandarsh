@@ -58,6 +58,12 @@ class DarshChouhan:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=00D4FF)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00D4FF)
 
+**Deep Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Keras](https://img.shields.io/badge/Keras-0D1117?style=for-the-badge&logo=keras&logoColor=D00000)
+
 **AI Engineering**
 
 ![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=7928CA)
