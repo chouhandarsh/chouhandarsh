@@ -116,9 +116,9 @@ class DarshChouhan:
 <summary><b>Deep Learning — Starting</b></summary>
 <br/>
 
-- [ ] Neural Networks from scratch (NumPy)
-- [ ] Backpropagation & Automatic Differentiation
-- [ ] CNNs & Computer Vision
+- [x] Neural Networks from scratch (NumPy)
+- [x] Backpropagation & Automatic Differentiation
+- [x] CNNs & Computer Vision
 - [ ] Transformers & Attention Mechanisms
 - [ ] Generative Models (VAEs, Diffusion)
 
@@ -158,19 +158,20 @@ class DarshChouhan:
 *More projects dropping regularly. Watch this space.*
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DarshChouhan&theme=dark&background=0D1117&border=00D4FF&ring=7928CA&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=A0AEC0&dates=A0AEC0&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chouhandarsh&theme=dark&background=0D1117&border=00D4FF&ring=7928CA&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=A0AEC0&dates=A0AEC0&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
 ## 📈 Contribution Graph
-
 <div align="center">
 
-[![Darsh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=chouhandarsh&bg_color=0D1117&color=00D4FF&line=7928CA&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Check out my live contribution graph on my [GitHub profile](https://github.com/chouhandarsh)
 
 </div>
+
+
 
 ---
 
