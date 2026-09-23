@@ -157,7 +157,7 @@ class DarshChouhan:
 
 *More projects dropping regularly. Watch this space.*
 
-
+<div align="center>
 [![GitHub Streak](https://streak-stats.demolab.com?user=chouhandarsh&theme=dark&background=0D1117&border=00D4FF&ring=7928CA&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=A0AEC0&dates=A0AEC0&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://git.io/streak-stats)
 
 </div>
